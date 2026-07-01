@@ -1,10 +1,30 @@
-• Intro Section (Hi, I'm Your Name)
-• Typing Animation Banner
-• About Me Section
-• Portfolio + LinkedIn badges
-• Tech Stack icons
-• Current Projects section
-• GitHub Stats cards
-• Tools section
-• Contribution graph
-• Visitor badge
+──────────────────────────────────────────────────────────
+
+👋 Hi, I'm Augustin Nayagam
+✨ Typing Animation
+
+🙋 About Me
+
+🔗 Portfolio | LinkedIn | Email
+
+💻 Tech Stack
+
+🚀 Current Projects
+
+📊 GitHub Stats
+📈 GitHub Streak
+🌐 Top Languages
+
+🛠 Tools & IDEs
+
+📈 Contribution Graph
+
+🐍 Contribution Snake
+
+🏆 GitHub Trophies
+
+👀 Profile Visitors
+
+📫 Contact Me
+
+──────────────────────────────────────────────────────────
