@@ -16,7 +16,7 @@
 
 - 🎓 Computer Science Student
 - 💻 Passionate about Front-end Development
-- 🌱 Currently learning **Spring Boot, GitHub Actions & Web Development**
+- 🌱 Currently learning **, GitHub Actions & Web Development**
 - 🚀 Working on exciting college projects
 - 📫 Reach me at **augustinnayagam26@example.com**
 
@@ -25,13 +25,10 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/augustin-nayagam" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
 
 <a href="mailto:augustinnayagam26@example.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -45,7 +42,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
 ### Frameworks
@@ -63,7 +60,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anitigravity" />
 </p>
 
 ---
@@ -105,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,eclipse,mysql,figma,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anitigravity"/>
 
 </p>
 
@@ -145,11 +142,11 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/augustin-nayagam">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Augustin2437">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
